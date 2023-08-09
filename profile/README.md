@@ -1,6 +1,6 @@
-# The Key Pain Point
+# The Bureaucratic Runaround Headache
 
-The goal of this organization is to provide tools that can automate what I like to call the beaurocratic runaround headache.  In analog forms, it often appears as needing to collect a specific set of signatures corresponding to authorizations and endorsements. In digital form, we address the purpose of those signatures without necessarily incarnating them in the form of a handwritten name, as is traditional in the analog world. Doing the work of collecting the authorizations associated with those signatures needs to happen, but figuring out how, where, and who to collect them from is a task that could use more tooling. It's not public yet, because there is a lot of background work that needs to be done before Delecert can pull it all together, but that is what the projects in this organization are meant to address.
+The final pain point that this organization is aiming to address is what I like to call the bureaucratic runaround headache.  In analog forms, it often appears as needing to collect a specific set of signatures corresponding to authorizations and endorsements. In digital form, we address the purpose of those signatures without necessarily incarnating them in the form of a handwritten name, as is traditional in the analog world. Doing the work of collecting the authorizations associated with those signatures needs to happen, but figuring out how, where, and who to collect them from is a task that could use more tooling. It's not public yet, because there is a lot of background work that needs to be done before Delecert can pull it all together, but that is what the projects in this organization are meant to address.
 
 ## Organization status
 
